@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SaturnMovie" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange_1</item>
+        <item name="colorPrimaryVariant">@color/orange_2</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/brown_2</item>
+        <item name="colorSecondaryVariant">@color/brown_1</item>
+        <item name="colorOnSecondary">@color/background</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <item name="fontFamily">@font/vazir_regular</item>
+        <item name="android:fontFamily">@font/vazir_regular</item>
+        <item name="movieTitle">@color/white</item>
+        <item name="placeholder">@color/gray_night</item>
+        <item name="bw">@color/white</item>
+    </style>
+</resources>
