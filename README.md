@@ -4,7 +4,7 @@ SaturnMovie is a simple app that uses Filimo search API. It has been tried to us
 ## Getting Started
 Clone this repository and import into **Android Studio**
 ```bash
-git clone https://github.com/sanamkhorsandi/SaturnMovie.git
+git clone https://github.com/sanamkhorsandi/saturn-movie.git
 ```
 
 now Build and Run app on the emulator or on your own device.
